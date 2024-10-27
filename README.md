@@ -15,8 +15,8 @@ An image manipulation tool that allows users to upload, resize, crop, blur, and 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ody9s5eus/image-converter-ts.git
-cd image-converter-ts
+git clone https://github.com/ody9s5eus/image-converter.git
+cd image-converter
 npm install
 ```
 
