@@ -1,7 +1,6 @@
-import React from "react";
 import ImageConverter from "./components/ImageConverter";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <h1>Image Converter and Editor</h1>
@@ -9,5 +8,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
