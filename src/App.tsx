@@ -1,4 +1,4 @@
-import ImageConverter from "./components/ImageConverter";
+import ImageConverter from './components/ImageConverter';
 
 export default function App() {
   return (
