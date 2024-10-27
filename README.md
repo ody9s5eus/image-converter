@@ -50,6 +50,10 @@ src/
 │   └── ImageConverter.tsx    // Main component managing steps and state
 ```
 
+## 🌐 Live Demo
+
+Access the live version of this tool on GitHub Pages: [Image Converter Demo](https://ody9s5eus.github.io/image-converter)
+
 ## 🤝 Contributions
 
 Feel free to fork the repository and submit a pull request for any improvements!
